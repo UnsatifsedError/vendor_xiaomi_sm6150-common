@@ -296,7 +296,6 @@ PRODUCT_PACKAGES += \
     libril-qc-logger \
     librilqmiservices \
     librpmb \
-    libsdedrm \
     libsdm-color \
     libsdm-colormgr-algo \
     libsdm-diag \
